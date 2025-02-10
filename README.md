@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushal kumar jha</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Enthusiast%F0%9F%92%BB%F0%9F%92%BB;Contributor%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Developer%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
 <img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-03&label=Profile%20views&color=0e75b6&style=flat" alt="KausHalJHa-04" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-03&label=Profile%20views&color=0e75b6&style=flat" alt="KausHalJHa-04" /> </p>
 
 <!-- <p align="left"> <a href="https://twitter.com/sagarkumar16289" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge" alt="KausHalJHa-04" /></a> </p> -->
 
