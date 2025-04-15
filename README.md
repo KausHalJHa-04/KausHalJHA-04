@@ -9,7 +9,7 @@
 - 📫 Reach me **jhakaushal361@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
-<p align="left">
+<p align="left">      
 <!-- <a href="https://twitter.com/sagarkumar16289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarkumar16289" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/kaushal-jha-6073042aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KausHalJHa-04" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_kaushal_jha04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sagar_kumar03" height="30" width="40" /></a>
