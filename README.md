@@ -7,7 +7,7 @@
 <!-- <p align="left"> <a href="https://twitter.com/sagarkumar16289" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge" alt="KausHalJHa-04" /></a> </p> -->  
 
 - 📫 Reach me **jhakaushal361@gmail.com**       
-   
+    
 <h3 align="left">Connect with me: </h3>    
 <p align="left">      
 <!-- <a href="https://twitter.com/sagarkumar16289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagarkumar16289" height="30" width="40" /></a> -->
