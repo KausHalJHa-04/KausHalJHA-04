@@ -95,6 +95,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ![](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={2})
 
 
