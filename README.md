@@ -99,4 +99,4 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 
 <!--![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&unique={true|1|on|yes}) -->
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={1})
+![](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={1})
