@@ -73,10 +73,11 @@
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <br clear="both" />  
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushaljha-04&show_icons=true&locale=en&layout=compact" alt="kaushaljha-04" /></p>
-
 <br clear="both">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={count})
 
