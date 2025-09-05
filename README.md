@@ -69,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+</div><br>
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats)
@@ -77,6 +77,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushaljha-04&show_icons=true&locale=en&layout=compact" alt="kaushaljha-04" /></p>
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KausHalJHa-04/KausHalJHa-04/output/pacman-contribution-graph-dark.svg">
