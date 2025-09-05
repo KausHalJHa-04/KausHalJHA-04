@@ -79,5 +79,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushaljha-04&show_icons=true&locale=en&layout=compact" alt="kaushaljha-04" /></p>
 <br clear="both">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={count})
 
