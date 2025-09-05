@@ -9,8 +9,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KausHalJHA04&label=Profile%20views&color=0e75b6&style=flat" alt="KausHalJHa-04" /></p>  
 
 <!-- <p align="left"> <a href="https://twitter.com/sagarkumar16289" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge" alt="KausHalJHa-04" /></a> </p> -->   
- 
-- 📫 Reach me **jhakaushal361@gmail.com**                     
+ **A passionate software Developer || Fullstack developer **
+
+Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Portfolio and scatch project
+- 🌱 **I’m currently learning:** Next js and Generative Ai
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** jhakaushal361@gmail.com
+- 😄 **Pronouns:** Kaushal
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me                   
     
 <h3 align="left">Connect with me: </h3>      
 <div align="left">
