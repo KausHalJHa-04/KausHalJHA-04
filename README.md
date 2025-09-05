@@ -87,4 +87,6 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="kaushaljha-04" /></p>
 <br clear="both">
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://spotify-recently-played-readme.vercel.app/api?user=31uiyzk2dmavxk7dex47x2tq2yza&count={count})
