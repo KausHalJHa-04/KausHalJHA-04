@@ -33,7 +33,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-<hr>
+
 
 <h2>🛠️ Tech Stack:</h2>
 
