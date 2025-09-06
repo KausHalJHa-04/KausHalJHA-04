@@ -19,7 +19,8 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 - 📫 **How to reach me:** jhakaushal361@gmail.com
 - 😄 **Pronouns:** Kaushal
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me                   
-    
+
+<hr>
 <h3 align="left">Connect with me: </h3>      
 <div align="left">
   <a href="https://www.linkedin.com/in/kaushal-jha-6073042aa/" target="_blank">
@@ -32,7 +33,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
----
+<hr>
 ### 🛠️ Tech Stack:
 
 **Languages:**
@@ -67,13 +68,13 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
----
+<hr>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats) <br><br>
 
 <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <br clear="both" />  
-
+<hr>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KausHalJHa-04&show_icons=true&locale=en&layout=compact" alt="KausHalJHa-04" />
@@ -83,7 +84,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----<hr>
+<hr>
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
