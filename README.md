@@ -74,11 +74,9 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 
 <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <br clear="both" />  
-<hr>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KausHalJHa-04&show_icons=true&locale=en&layout=compact" alt="KausHalJHa-04" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KausHalJHa-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <br clear="both">
 <hr>
 <div align="left">
