@@ -83,7 +83,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
----
+---<hr>
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
