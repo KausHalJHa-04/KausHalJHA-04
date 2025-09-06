@@ -35,7 +35,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 </div>
 <hr>
 
-<b>🛠️ Tech Stack:</b>
+🛠️<strong> Tech Stack:</strong>
 
 **Languages:**
 
