@@ -35,7 +35,8 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 </div>
 <hr>
 
-<h1>🛠️ Tech Stack: </h1>
+<h2>🛠️ Tech Stack: </h2>
+
 **Languages:**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
