@@ -80,7 +80,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KausHalJHa-04&show_icons=true&locale=en&layout=compact" alt="KausHalJHa-04" />
 </p>
 <br clear="both">
----
+<hr>
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
