@@ -32,7 +32,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
-
+---
 ### 🛠️ Tech Stack:
 
 **Languages:**
@@ -79,11 +79,11 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KausHalJHa-04&show_icons=true&locale=en&layout=compact" alt="KausHalJHa-04" />
 </p>
 <br clear="both">
-
+---
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
+---
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
