@@ -13,7 +13,7 @@
 
 Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Portfolio and scatch project
+- 🔭 **I’m currently working on:** Portfolio and Text Translator project
 - 🌱 **I’m currently learning:** Next js and Generative Ai
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** jhakaushal361@gmail.com
