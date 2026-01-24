@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
-</div>
+</div> -->
  
 <h1 align="center">Hi 👋, I'm Kaushal Kumar Jha</h1>            
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Enthusiast%F0%9F%92%BB%F0%9F%92%BB;Contributor%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Developer%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3>   
@@ -78,7 +78,7 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats) <br><br>
 
-<img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
 <br clear="both" />  
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KausHalJHa-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
