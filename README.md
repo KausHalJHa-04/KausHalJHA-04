@@ -74,12 +74,12 @@ Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or An
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<hr>
+<!-- <hr> -->
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats) <br><br> 
+<!-- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats) <br><br> -->
 
 <!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-<br clear="both" />  
+<!-- <br clear="both" />   -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KausHalJHa-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
