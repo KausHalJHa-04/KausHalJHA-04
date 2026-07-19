@@ -1,95 +1,91 @@
-<!-- <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> 
-</div> -->
- 
-<h1 align="center">Hi 👋, I'm Kaushal Kumar Jha</h1>            
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=lora&size=24&pause=1000&color=F70407&vCenter=true&random=false&width=435&lines=Full+stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Tech+Enthusiast%F0%9F%92%BB%F0%9F%92%BB;Contributor%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Developer%F0%9F%92%BB;Upcoming+Software+Engineer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a></h3>   
-<!-- <img align="right"alt="coding"width="400"src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0"> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagar-03&label=Profile%20views&color=0e75b6&style=flat" alt="KausHalJHa-04" /> </p> --> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KausHalJHA04&label=Profile%20views&color=0e75b6&style=flat" alt="KausHalJHa-04" /></p>  
+<div align="center">
 
-<!-- <p align="left"> <a href="https://twitter.com/sagarkumar16289" target="blank"><img src="https://img.shields.io/twitter/follow/sagarkumar16289?logo=twitter&style=for-the-badge" alt="KausHalJHa-04" /></a> </p> -->   
- **A passionate software Developer || Fullstack developer **
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kaushal%20Kumar%20Jha&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20for%20the%20Web&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
-Email Me 👉 ✉️ **jhakaushal361@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+<br/>
 
-- 🔭 **I’m currently working on:** Portfolio 
-- 🌱 **I’m currently learning:** Next js and Generative Ai
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** jhakaushal361@gmail.com
-- 😄 **Pronouns:** Kaushal
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me                   
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-jha-6073042aa/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kaushal_jha04/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhakaushal361@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TTL44FU4A7DTP1)
 
-<hr>
-<h3 align="left">Connect with me: </h3>      
-<div align="left">
-  <a href="https://www.linkedin.com/in/kaushal-jha-6073042aa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/_kaushal_jha04/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://wa.me/qr/TTL44FU4A7DTP1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=KausHalJHA04&label=Profile+Views&color=2C5364&style=flat" alt="profile views"/>
+
 </div>
 
+<br/>
 
-<h2>🛠️ Tech Stack:</h2>
+## `01` &nbsp; About
 
-**Languages:**
+I'm a **Full Stack Developer** based in India, focused on building clean, functional web applications from front to back. Currently sharpening my skills in **Next.js** and exploring the world of **Generative AI**.
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+```yaml
+role:        Full Stack Developer
+based_in:    India
+currently:   Building my Portfolio
+learning:    Next.js, Generative AI
+open_to:     Collaboration, Freelance work, Tech discussions
+contact:     jhakaushal361@gmail.com
+```
 
-**Frontend:**
+<br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## `02` &nbsp; Tech Stack
 
-**Backend:**
+<table>
+<tr>
+<td valign="top" width="50%">
 
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+**Languages**
 
-**Databases:**
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,py&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend**
 
-**Tools & Design:**
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind&theme=dark" />
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</td>
+<td valign="top" width="50%">
 
-<!-- <hr> -->
+**Backend & Database**
 
-<!-- [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=KausHalJHa-04&theme=transparent)](https://git.io/streak-stats) <br><br> -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" />
 
-<!-- <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
-<!-- <br clear="both" />   -->
+**Tools & Design**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KausHalJHa-04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,ps&theme=dark" />
 
-<br clear="both">
-<hr>
-<div align="left">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `03` &nbsp; GitHub Analytics
+
+<div align="center">
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=KausHalJHa-04&show_icons=true&theme=dark&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KausHalJHa-04&layout=compact&theme=dark&hide_border=true" height="165"/> -->
+
+<img src="https://streak-stats.demolab.com/?user=KausHalJHa-04&theme=dark&hide_border=true" />
+
+<!-- <sub>If any card above shows "Error" or doesn't load, it's usually a temporary rate-limit on the free stats service — refresh the page in a minute, or see the note below.</sub> -->
+
 </div>
-<hr>
-✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
+## `04` &nbsp; Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations and opportunities. Reach out — I usually reply quickly.
+
+<!-- <a href="mailto:jhakaushal361@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-jhakaushal361%40gmail.com-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/> 
