@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Kaushal%20Kumar%20Jha&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20for%20the%20Web&descSize=16&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
