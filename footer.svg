@@ -1,0 +1,18 @@
+<svg width="900" height="70" viewBox="0 0 900 70" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#111834"/>
+    </linearGradient>
+    <linearGradient id="accentLine2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f5a623"/>
+      <stop offset="45%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#7c8cff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="70" rx="14" fill="url(#bg2)"/>
+  <rect x="0.5" y="0.5" width="899" height="69" rx="14" fill="none" stroke="#1e2540" stroke-width="1"/>
+  <rect x="0" y="0" width="6" height="70" fill="url(#accentLine2)"/>
+  <text x="40" y="42" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#5b6a94">$ echo "thanks for stopping by"</text>
+  <text x="720" y="42" font-family="'JetBrains Mono',Consolas,monospace" font-size="15" fill="#2dd4bf">process exit 0</text>
+</svg>
