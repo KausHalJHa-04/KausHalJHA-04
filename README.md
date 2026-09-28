@@ -16,7 +16,7 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/TTL44FU4A7DTP1)
 
 <!-- Swap this URL for your live portfolio link once it's deployed -->
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https:kaushal.kesug.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white)](https://kaushal.kesug.com)
 
  <img src="https://komarev.com/ghpvc/?username=KausHalJHA04&label=Profile+Views&color=2C5364&style=flat" alt="profile views"/> 
 
